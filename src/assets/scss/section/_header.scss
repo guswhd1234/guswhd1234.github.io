@@ -1,0 +1,9 @@
+#header{
+    @include position-fixed; 
+    z-index: 10000;
+}
+.header_inner{
+    @include flex-between; 
+    padding:1rem; 
+    background-color:rgba(116,99,99,0.5);
+}

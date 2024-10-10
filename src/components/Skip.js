@@ -1,9 +1,9 @@
 import React from "react";
 
-const Contact=()=>{
+const Skip=()=>{
   return(
     <></>
   )
 }
 
-export default Contact;
+export default Skip;
